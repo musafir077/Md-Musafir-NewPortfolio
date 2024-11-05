@@ -45,7 +45,7 @@ function addTestimonial() {
         // Function to display a testimonial
 function displayTestimonial(testimonial) {
     const testimonialCard = `
-        <div class="col-md-4 testimonial-card-container" id="testimonial-${testimonial.id}">
+        <div class="col-md-4 testimonial-card-container-fluid" id="testimonial-${testimonial.id}">
             <div class="card mb-4 shadow-sm testimonial-card">
                 <div class="card-body">
                     <h5 class="card-title">${testimonial.name}</h5>
