@@ -115,7 +115,8 @@ body{
 }
 
 .hero-section-heading{
-  font-size: 35px;
+  /* font-size: 35px; */
+  font-size: 2rem;
   color: #343c68;
   font-weight: 500;
 }
@@ -124,9 +125,7 @@ body{
   font-weight: 600;
 }
 
-.hero-section-sub-heading{
-  font-size: 2rem;
-}
+
 .hero-section-discription{
   max-width: 600px;
   margin-top: 1.5rem;
@@ -377,9 +376,19 @@ body{
     position: relative;
     top: 80px;
   }
-
-  .social-media{
+  .hero-section  h1 .color-text{
     font-size: 1.5rem;
+  }
+  
+  .hero-section-heading{
+    /* font-size: 35px; */
+    font-size: 1.8rem;
+  }
+  .role{
+    font-size: 1.8rem;
+  }
+  .social-media{
+    font-size: 1.8rem;
   }
 
   .hero-image{
