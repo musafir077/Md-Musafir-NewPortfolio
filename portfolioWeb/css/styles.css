@@ -335,7 +335,7 @@ body{
 }
 .footer .social-icons a {
   font-size: 1.5rem;
-  margin-right: 15px;
+  margin-right:5px;
 }
 
 .footer .social-icons a i:hover{
@@ -376,19 +376,23 @@ body{
     position: relative;
     top: 80px;
   }
+
+  .hero-section  h1{
+    font-size: 1.5rem;
+  }
+  
   .hero-section  h1 .color-text{
     font-size: 1.5rem;
   }
   
   .hero-section-heading{
-    /* font-size: 35px; */
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
   .role{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
   .social-media{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
 
   .hero-image{
